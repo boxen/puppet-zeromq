@@ -1,4 +1,11 @@
-# Puppet zeromq for Boxen
+# 0MQ Puppet Module for Boxen
 
-FIXME: update me bro
+Requires the following boxen modules:
 
+* `boxen`
+
+## Usage
+
+```puppet
+include zeromq
+```
