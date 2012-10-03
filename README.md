@@ -9,3 +9,9 @@ Requires the following boxen modules:
 ```puppet
 include zeromq
 ```
+
+## Developing
+
+Write code.
+
+Run `script/cibuild`.
