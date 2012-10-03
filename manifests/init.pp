@@ -1,5 +1,3 @@
 class zeromq {
-  package { 'zeromq':
-    ensure => latest
-  }
+  package { 'zeromq': }
 }
