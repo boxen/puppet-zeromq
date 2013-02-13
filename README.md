@@ -1,14 +1,16 @@
 # 0MQ Puppet Module for Boxen
 
-Requires the following boxen modules:
-
-* `boxen`
-
 ## Usage
 
 ```puppet
 include zeromq
 ```
+
+## Required Puppet Modules
+
+* boxen
+* homebrew
+* stdlib
 
 ## Developing
 
